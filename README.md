@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Praveen](https://www.linkedin.com/in/praveen-gm/)
 
-- 🔭 I’m currently working Android, Flutter and Firebase
+- 🔭 I’m currently working on Android, Flutter and Firebase
 - 🌱 I’m currently learning M.A.D and exploring Android 12/13 
 - 💬 Ask me about Marvel any day 😉
 - ⚡ Fun fact: I love to sing🎙️ and I play the 🎸 or  🎹 sometimes
