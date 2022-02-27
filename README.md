@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on Android, Flutter and Firebase
 - 🌱 I’m currently learning M.A.D and exploring Android 12/13 
 - 💬 Ask me about Android / Flutter 
-- ⚡ Fun fact: I love to sing🎙️ and I play the 🎸 or  🎹 sometimes
 
 ### More About Me
 
