@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm [Praveen](https://www.linkedin.com/in/praveen-gm/)
 
 - 🔭 I’m currently working on Android, Flutter and Firebase
-- 🌱 I’m currently learning M.A.D and exploring Android 12/13 
-- 💬 Ask me about Android / Flutter 
+- 🌱 I’m currently learning iOS basics, exploring Android 12/13, 
+- 💬 Ask me about Android / Flutter
 
 ### More About Me
 
