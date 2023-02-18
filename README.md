@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm [Praveen](https://www.linkedin.com/in/praveen-gm/)
 
 - 🔭 I’m currently working on Android, Flutter and Firebase
-- 🌱 I’m currently learning iOS basics, exploring Android 12/13, 
+- 🌱 I’m currently learning iOS basics, 
 - 💬 Ask me about Android / Flutter
 
 ### More About Me
