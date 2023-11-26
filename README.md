@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm [Praveen](https://www.linkedin.com/in/praveen-gm/)
 
-- 🔭 I’m currently working on Android, Flutter and Firebase
+- 🔭 I’m currently working on Android, Flutter, and KMM
 - 🌱 I’m currently learning iOS basics, 
 - 💬 Ask me about Android / Flutter
 
